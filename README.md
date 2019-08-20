@@ -4,8 +4,8 @@ This is a sample repository to test whether subtree and maven-build works for th
 
 ## Build 
 
-In order to build this, a `nestrepos` profile has been created inside `pom.xml` in `mvn-repo-test`.
-
-`cd mvn-repo-test`
+In order to build this, run this command.
 
 `mvn clean install -DskipTests -P nestrepos`
+
+A `nestrepos` profile has been created inside `pom.xml` including the above modules.
