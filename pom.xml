@@ -2112,9 +2112,6 @@
          <properties>
             <skipTests>true</skipTests>
          </properties>
-         <activation>
-            <activeByDefault>true</activeByDefault>
-         </activation>
          <modules>
             <module>kie-soup</module>
             <module>droolsjbpm-knowledge</module>
