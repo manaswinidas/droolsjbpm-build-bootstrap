@@ -1,0 +1,12 @@
+[subtree "drools"]
+	url = git@github.com:kiegroup/drools.git
+	path = drools
+	branch = master
+[subtree "kie-soup"]
+	url = git@github.com:kiegroup/kie-soup.git
+	path = kie-soup
+	branch = master
+[subtree "droolsjbpm-knowledge"]
+	url = git@github.com:kiegroup/droolsjbpm-knowledge.git
+	path = droolsjbpm-knowledge
+	branch = master
